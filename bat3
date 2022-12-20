@@ -1,0 +1,29 @@
+bash-3.2$ mkdir workspace
+bash-3.2$ cd workspace/
+bash-3.2$ whoami Kolos
+bash-3.2$ echo "hello"; echo "world"
+bash-3.$2 echo "hello" && echo "world"
+bash-3.$2 echo "hello" || echo "world"
+bash-3.$2 echa "hello"; echo "world"
+bash-3.$2 echa "hello" || echo "world"
+bash-3.$2 echo "hello" || echa "world"
+bash-3.$2 echa "hello" || echa "world"
+bash-3.$2 yes
+ответ:
+bash: bash-3.2$: command not found
+bash: bash-3.2$: command not found
+bash: bash-3.2$: command not found
+bash: bash-3.2$: command not found
+world
+bash: bash-3.i=i+1:: command not found
+bash: bash-3.i=i+1:: command not found
+world
+bash: bash-3.i=i+1:: command not found
+world
+bash: bash-3.i=i+1:: command not found
+world
+bash: bash-3.i=i+1:: command not found
+bash: echa: command not found
+bash: bash-3.i=i+1:: command not found
+bash: echa: command not found
+bash: bash-3.i=i+1:: command not found
