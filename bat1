@@ -1,0 +1,3 @@
+Echo %1 hello
+Echo %2 word
+Exit “1”
